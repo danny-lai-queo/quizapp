@@ -1,3 +1,7 @@
+## Simple Quiz UI only
+
+An experiment to use React to implement a simple quiz on client side.
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## to create project 
